@@ -33,7 +33,7 @@ It features smooth motion effects and subtle parallax background animation — c
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/gta-vi-landing-page.git
+git clone https://github.com/kaival775/GTA-VI-Landing-Page.git
 ```
 
 ### Navigate into the project
