@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "pricedown";
+  src: url("./pricedown.otf");
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  font-family: "pricedown";
+  overflow-x: hidden;
+}
+
+body::-webkit-scrollbar{
+  background: #000;
+  width: 5px;
+  border-radius: 20px;
+  border: none;
+}
+
+body::-webkit-scrollbar-thumb{
+  background: white;
+  border-radius: 20px;
+  border: none;
+
+}
