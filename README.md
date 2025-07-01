@@ -38,7 +38,7 @@ git clone https://github.com/your-username/gta-vi-landing-page.git
 
 # Navigate into the project
 ```bash
-cd GTAVI
+cd GTA-VI-Landing-Page
 ```
 
 # Install dependencies
