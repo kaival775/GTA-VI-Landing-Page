@@ -18,7 +18,7 @@ It features smooth motion effects and subtle parallax background animation — c
 
 - Dynamic parallax background animation
 - Smooth element transitions and reveals using GSAP
-- Responsive structure base (not fully responsive yet — in progress)
+- Responsive structure base (not fully responsive yet)
 - Clean and minimal codebase using Vite + Tailwind
 
 ---
@@ -38,7 +38,7 @@ git clone https://github.com/your-username/gta-vi-landing-page.git
 
 # Navigate into the project
 ```bash
-cd gta-vi-landing-page
+cd GTAVI
 ```
 
 # Install dependencies
@@ -61,4 +61,4 @@ npm run dev
 - Applying basic parallax effects for interactive UI
 
  ## 📌 Notes
- # This is a practice/demo project for learning purposes
+ ### This is a practice/demo project for learning purposes
