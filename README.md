@@ -31,21 +31,21 @@ It features smooth motion effects and subtle parallax background animation — c
 
 ## 🛠️ Installation & Setup
 
-# Clone the repository
+### Clone the repository
 ```bash
 git clone https://github.com/your-username/gta-vi-landing-page.git
 ```
 
-# Navigate into the project
+### Navigate into the project
 ```bash
 cd GTA-VI-Landing-Page
 ```
 
-# Install dependencies
+### Install dependencies
 ```bash
 npm install
 ```
-# Run the development server
+### Run the development server
 ```bash
 npm run dev
 ```
